@@ -1,8 +1,6 @@
 # SENPAI
  From tissue to segmentation: a modular framework for multi-scale neuron isolation
  
-PLEASE DOWNLOAD THIS FOLDER BEFORE TESTING AND REVIEWING
-(DO NOT RUN IN MATLAB ONLINE)
 %%%%%%%%%%%%
 Manuscript: "From tissue to segmentation: a modular framework for multi-scale neuron isolation", Cauzzo et al.
 %%%%%%%%%%%%
