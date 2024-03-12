@@ -1,8 +1,8 @@
 # SENPAI
- From tissue to segmentation: a modular framework for multi-scale neuron isolation
+A modular framework for multi-scale tissue imaging and neuronal segmentation 
  
 %%%%%%%%%%%%
-Manuscript: "From tissue to segmentation: a modular framework for multi-scale neuron isolation", Cauzzo et al.
+Manuscript: "A modular framework for multi-scale tissue imaging and neuronal segmentation", Cauzzo et al., Nature Communications, 2024
 %%%%%%%%%%%%
 
 !!!! System Requirements and Dependencies:
